@@ -1,0 +1,7 @@
+*.csv
+*.joblib
+*.sav
+*.pkl
+models/
+__pycache__/
+.DS_Store
